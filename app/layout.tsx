@@ -2,9 +2,9 @@ import type { Metadata } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.dev',
+  title: 'Quote Generator',
+  description: 'Discover inspiring quotes tailored to your interests. Enter any topic and get three carefully curated quotes to motivate and inspire your journey.',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({
